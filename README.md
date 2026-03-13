@@ -9,7 +9,7 @@ Hello!
 <br>
 👋 I'm Eduardo Almeida Porto, a programming and digital world enthusiast.
 <br>
-Currently, I'm 19 years old and work as an Assistant in People Analytics.
+Currently, I'm 20 years old and work as an Assistant in People Analytics.
 <br>
 My interest in technology and programming started early, at the age of 15, and since then, I've been dedicated to studying and developing skills in this exciting field.
 
@@ -53,7 +53,7 @@ My interest in technology and programming started early, at the age of 15, and s
 🎬 Anime: Anime is a major source of entertainment and inspiration for me.<br>
 📚 Learning: I dedicate some of my free time to studying and improving my technical skills.<br>
 🔒 Cybersecurity: I have a special interest in the field of cybersecurity and am focused on learning more about this critical area.<br>
-🎓 Computer Science: I'm currently pursuing a degree in Computer Science at UniRitter to complement my knowledge in the field.
+🎓 Computer Science: I'm currently pursuing a degree in Computer Science at UniRitter dos Reis to complement my knowledge in the field.
 
 ## Goals
 
